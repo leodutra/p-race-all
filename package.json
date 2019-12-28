@@ -1,0 +1,27 @@
+{
+  "name": "p-race-all",
+  "version": "1.0.0",
+  "description": "A Promise.race() which does not stop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodutra/p-race-all.git"
+  },
+  "keywords": [
+    "race",
+    "all",
+    "promise",
+    "then",
+    "bluebird",
+    "resolve"
+  ],
+  "author": "Leo Dutra <leodutra@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodutra/p-race-all/issues"
+  },
+  "homepage": "https://github.com/leodutra/p-race-all#readme"
+}
