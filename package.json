@@ -1,5 +1,5 @@
 {
-  "name": "p-race-all",
+  "name": "race-all",
   "version": "1.0.0",
   "description": "A Promise.race() which does not stop.",
   "main": "index.js",
