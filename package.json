@@ -1,6 +1,6 @@
 {
   "name": "race-all",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A Promise.race() which does not stop.",
   "main": "index.js",
   "scripts": {
